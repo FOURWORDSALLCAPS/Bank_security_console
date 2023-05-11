@@ -16,7 +16,10 @@ python -m pip install -r requirements.txt
 В браузере переходим по ссылке ```http://127.0.0.1:8000/``` 
 
 ### Результат:
-![1](https://github.com/FOURWORDSALLCAPS/Bank_security_console/assets/48273739/ccc0e011-4b0a-4bae-aa9a-efcda8d00f5e)
+Получаете скрипт который:
+подключается к базе данных
+Выводит данные на сайт
+
 ### Версия Python: 
 Я использовал Python `3.8.3`, но он должен работать на любой более новой версии.
 
