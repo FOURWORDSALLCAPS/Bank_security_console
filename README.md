@@ -28,4 +28,3 @@ python -m pip install -r requirements.txt
 
 ### Автор
 (2023) Zaitsev Vladimir
-
