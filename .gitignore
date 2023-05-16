@@ -24,3 +24,9 @@ TestResults.xml
 *.env
 #idea files
 *.idea
+#Python folder
+__pycache__
+#Python files
+*.pyc
+*.pyd 
+*.pyo
